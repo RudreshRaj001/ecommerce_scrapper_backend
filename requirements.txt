@@ -1,6 +1,5 @@
 Flask
 flask-cors
 pymongo
-dnspython
-bson
+asyncio
 playwright
